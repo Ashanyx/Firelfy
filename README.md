@@ -1,0 +1,2 @@
+# Firelfy
+Reddit bot
